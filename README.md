@@ -8,7 +8,7 @@ Prueba de concepto de Cripter con AES256/ Cripter proof of concept with AES256
 
 # Uso #
 
-Ejecutar el binario seleccionar una de las opciones, se encriptaran/desencriptaran los archivos del mismo directorio del ejecutable con la contraseña recibida
+Compilar y ejecutar el binario final, selecciona una de las opciones, se encriptaran/desencriptaran los archivos del mismo directorio del ejecutable con la contraseña recibida
 
 # Uso Windows y Linux:
 * `Instalar Golang`
@@ -22,7 +22,7 @@ Este contenido es enseñado con fines educativos y de aprendizaje, no me hago re
 
 # Use #
 
-Execute the binary, select one of the options, the files in the same directory as the executable will be encrypted/decrypted with the password received.
+Compile and execute the binary, select one of the options, the files in the same directory as the executable will be encrypted/decrypted with the password received.
 
 # Uso Windows y Linux:
 * `Install Golang`
