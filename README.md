@@ -6,8 +6,10 @@ Prueba de concepto de Cripter con AES256/ Cripter proof of concept with AES256
 
 
 ## Detecciones/ Detections AV
-https://antiscan.me/images/result/xbUZQLbXPaXD.png
+![alt text](https://antiscan.me/images/result/xbUZQLbXPaXD.png)
 https://kleenscan.com/scan_result/6352984689d53bca064e4c9e0dffe385dbe0c37f3ca8e8b54988a90341344edb
+
+Sandbox Kleenscan:
 https://kleenscan.com/runtime/scan_result/18cc1c1298fee43e15d0145e2b9130f91900949ceccf4dd39064575742ecfee2
 
 ## Spanish
