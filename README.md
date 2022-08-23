@@ -1,5 +1,5 @@
 # CriptoGo
-Prueba de concepto de Cripter con AES256/ Cripter proof of concept with AES256
+Prueba de concepto de Ransom con AES256/ Cripter proof of concept with AES256
 
 1. [Spanish](#Spanish "Goto Spanish")
 2. [English](#English "Goto English")
